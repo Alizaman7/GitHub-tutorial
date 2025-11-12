@@ -1,0 +1,5 @@
+important.txt
+passwords.txt
+*.log 
+node_modules/
+!important.log
